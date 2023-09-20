@@ -1,7 +1,17 @@
-.App {
-  text-align: center;
+.about {
+  color: red;
 }
 
+.image {
+  width: 100px;
+  height: 100px;
+}
+
+
+/* .App {
+  text-align: center;
+}
+3
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +45,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
